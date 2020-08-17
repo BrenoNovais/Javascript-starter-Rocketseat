@@ -1,0 +1,48 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Curso Javascript</title>
+    </head>
+    <body>
+        <div id="app">
+            <button class="botao">Adicionar Quadrado</button>
+            <div class="box"></div>
+        </div>
+
+        <ul></ul>
+
+        <script>
+   
+            var btnElement = document.querySelector('button.botao');
+            var boxElement = document.querySelector('div.box');
+            var booxelement = document.querySelector('div.boox')
+            
+
+            btnElement.onclick = function() {
+                var newBox = document.createElement('div');
+                newBox.style.width = "100px";
+                newBox.style.height = "100px";
+                newBox.style.backgroundColor = "#F00";
+                newBox.className = 'boox';
+
+                newBox.onmouseover = function() {
+                    newBox.style.backgroundColor = getRandomColor();
+                }
+
+                boxElement.appendChild(newBox);                        
+            }
+
+            function getRandomColor() {
+                var letters = "0123456789ABCDEF";
+                var color = "#";
+                for (var i = 0; i < 6; i++) {
+                color += letters[Math.floor(Math.random() * 16)];
+                }
+                return color;
+                }
+                var newColor = getRandomColor(); // #E943F0
+
+
+        </script>
+    </body>
+</html>
