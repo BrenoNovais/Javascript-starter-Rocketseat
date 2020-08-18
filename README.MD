@@ -1,17 +1,5 @@
 # Starter-Rocketseat
 
-
-## 📋 Índice
-
-- [Modulo 1](#-Modulo-1)
-- [Modulo 2](#-Modulo-2)
-- [Modulo 4](#-Modulo-4)
-
-
----
-
-
-
 ## Modulo 1
 
 <p align="center">
