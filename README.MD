@@ -33,6 +33,8 @@
 <p align="center">
   <img src="./images-readme/ex1-5.png">
 </p>
+
+--- 
                                       
 ## Modulo 2
 
