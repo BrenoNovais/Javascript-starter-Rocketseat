@@ -15,19 +15,19 @@
 ## Modulo 1
 
 <p align="center">
-  <img src="./images-readme/ex1-1" width="150" >
+  <img src="./images-readme/ex1-1" >
 </p>
 <br>
 <p align="center">
-  <img src="./images-readme/ex1-2" width="150" >
+  <img src="./images-readme/ex1-2>
 </p>
 <br>
 <p align="center">
-  <img src="./images-readme/ex1-3.png" width="150" >
+  <img src="./images-readme/ex1-3.png" >
 </p>
 <br>
 <p align="center">
-  <img src="images-readme/ex1-4.png" width="150" >
+  <img src="images-readme/ex1-4.png" >
 </p>
 <br>
 <p align="center">
