@@ -15,11 +15,11 @@
 ## Modulo 1
 
 <p align="center">
-  <img src="./images-readme/ex1-1" >
+  <img src=".\images-readme/ex1-1.png">
 </p>
 <br>
 <p align="center">
-  <img src="./images-readme/ex1-2>
+  <img src=".\images-readme/ex1-2.png">
 </p>
 <br>
 <p align="center">
@@ -33,7 +33,9 @@
 <p align="center">
   <img src="./images-readme/ex1-5.png">
 </p>
+                                      
 ## Modulo 2
+
 <br>
 <p align="center">
   <img src="./images-readme/ex2-1.png">
@@ -50,7 +52,7 @@
 <p align="center">
   <img src="./images-readme/ex2-4.png">
 </p>
-## Modulo 3
+## Modulo 4
 <br>
 <p align="center">
   <img src="./images-readme/ex4-1.png">
@@ -64,5 +66,4 @@
   <img src="./images-readme/ex4-3.png">
 </p>
 <br>
-<<<<<<< HEAD:readmi.md
-<br>
+
