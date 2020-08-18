@@ -64,4 +64,7 @@
   <img src="./images-readme/ex4-3.png" width="150" >
 </p>
 <br>
+<<<<<<< HEAD:readmi.md
 <br>
+=======
+>>>>>>> 23ffe78630587711b7ccfe23fa40eec20cd24ccf:README.MD
