@@ -52,8 +52,10 @@
 <p align="center">
   <img src="./images-readme/ex2-4.png">
 </p>
+
 ## Modulo 4
 <br>
+
 <p align="center">
   <img src="./images-readme/ex4-1.png">
 </p>
